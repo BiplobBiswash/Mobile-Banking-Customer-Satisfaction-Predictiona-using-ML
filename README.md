@@ -1,5 +1,5 @@
 ## 📌 Project Title
-# Customer-Satisfaction-Prediction-using-Machine-Learning
+# Mobile Banking Customer Satisfaction Prediction using Machine Learning
 
 This project focuses on predicting **customer satisfaction in Mobile Banking Services** using Machine Learning techniques.  
 The dataset includes user behavior, online transaction usage, telecom operator preference, service ratings, and satisfaction labels.
